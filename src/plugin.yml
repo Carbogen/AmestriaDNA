@@ -1,0 +1,7 @@
+name: AmestriaDNA
+author: Carbogen
+main: ca.carbogen.bukkit.amestria.dna.DNA
+version: 0.1
+commands:
+  dna:
+    description: Root command for AmestriaDNA.
